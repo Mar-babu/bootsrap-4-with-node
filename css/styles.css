@@ -48,9 +48,9 @@ address {
   transform: translateY(-50%); }
 
 #carouselButton {
-  right: 14px;
+  right: 15px;
   position: absolute;
-  bottom: -1px;
+  bottom: 1px;
   z-index: 1; }
 
 .modal .modal-header {
